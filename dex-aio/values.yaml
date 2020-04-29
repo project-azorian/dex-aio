@@ -53,7 +53,7 @@ over_rides:
   deployment:
     dex:
       spec:
-        replicas: 2
+        replicas: 1
 
 # advanced config below:
 config:
